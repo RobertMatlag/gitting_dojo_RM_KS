@@ -13,3 +13,4 @@ def joke():
 
 def shout():
     print("OMG")
+    print("cos tam musze zmienic to pisze sobie w tej linii")
