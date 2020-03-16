@@ -7,7 +7,7 @@ def add(a, b):
 
 
 def joke():
-    pass
+    print("this is a joke!")
 
 
 def shout():
